@@ -1,6 +1,6 @@
-FROM ubuntu:16.04
+FROM ubuntu:18.04
 
-LABEL maintainer="Alankrit Srivastava <alankrit.srivastava256@webkul.com>"
+LABEL maintainer="subhash  <rathnasubhash3@gmail.com>"
 
 ARG mysql_password
 ARG mysql_database
